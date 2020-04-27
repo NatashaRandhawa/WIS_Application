@@ -1,0 +1,81 @@
+body{
+    margin:0;
+}
+
+.Myheader {
+	background-color:red;
+	height:100px;
+    padding: 10px;
+}
+
+.Myheader img {
+        height: 100px;
+        vertical-align: middle;
+    }
+
+.Myheader h2 {
+    display:inline;
+    color: white;  
+    font-style:italic;
+}
+
+#tableRegister {
+    width:100%;
+}
+
+.Mylogintable {
+    padding: 20px;
+    margin: 20px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+}
+
+.Mylogintable td{
+        padding: 5px;
+    }
+.MySubmitbtn {
+    text-align: center;
+    padding: 20px !important;
+}
+#btnSubmit {
+    background-color: cornflowerblue;
+}
+
+.Mytabletitle {
+        text-align: center;
+        background-color: red;
+        color: white;
+        font-size: large;
+        padding: 15px!important;
+    }
+
+.MynewUser{
+    text-align: center;
+}
+
+.MyMandatoryField {
+    color: red;
+}
+
+.Mymsg{
+    text-align:right;
+}
+
+.MyHomePage {
+    padding: 20px;
+    margin: 20px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+}
+
+.Myfooter {
+    background-color: red;
+    height: 100px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
